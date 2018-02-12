@@ -1,6 +1,6 @@
 # Timilof_dotfiles
 
-##wat doet mn code
+## wat doet mijn code
 
 You can see de weer in my stad
 
