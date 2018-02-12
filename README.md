@@ -12,4 +12,4 @@ Added an emoji to mijn usernaam
 
 heb een alias gemaakt die naar de nano editor van .bash_profile
 
-> shoutout naar Kjeli, Burakk em Rempo
+> shoutout naar Kjell, Burak em Rempo
