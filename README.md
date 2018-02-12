@@ -8,4 +8,4 @@ Lots of aliases
 
 Welcome message :)
 
-Added an emoji to mijn username
+Added an emoji to mijn usernaam
